@@ -1,0 +1,7 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,500,700);
+body{
+	font: 50px 'Ubuntu';
+	color:#d7ebfe;
+	margin: 0 50px;
+	font-weight: 400;
+}
