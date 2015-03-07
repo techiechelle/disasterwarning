@@ -13,6 +13,12 @@ header{
 	z-index:2;
 	background-image:url("images/footer_lodyas/footer_lodyas.png");
 }
+footer{
+	width:100%;
+	background-color:#fff;
+	padding: 15px;
+	color:#8cc6fc;
+}
 div#DisasterWarning{
 	font-weight: 20;
 	color:#d7ebfe;
