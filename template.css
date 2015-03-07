@@ -52,7 +52,9 @@ h1{
 	font: 24px 'Ubuntu';
 	padding: 0;
 }
-
+section#portfolio{
+	padding:0 10px;
+}
 div.three-items {
 	display:block;
 	text-align:center;
@@ -61,6 +63,7 @@ div.three-items {
 div.an-item {
 	display:inline-block;
 	width 33%;
+	margin:10px;
 }
 
 div.item-text {
