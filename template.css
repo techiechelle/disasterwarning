@@ -21,6 +21,18 @@ div#DisasterWarning{
 	font: 24px;
 	margin: 0 0 0 20px;
 }
+section#about{
+	font: 12px 'Ubuntu';
+	background-color:#fff;
+	padding: 10px;
+}
+p{
+	text-indent:1.5em;
+}
+h1{
+	font: 24px 'Ubuntu';
+	padding: 0;
+}
 main{
 	padding-top:50px;
 }
