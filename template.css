@@ -33,6 +33,23 @@ h1{
 	font: 24px 'Ubuntu';
 	padding: 0;
 }
+
+div.three-items {
+	display:block;
+	text-align:center;
+	width:100%;
+}
+div.an-item {
+	display:inline-block;
+	width 33%;
+}
+div.item-text {
+	padding: 10px;;
+}
+img{
+	border-radius:50%;
+}
+
 main{
 	padding-top:50px;
 }
