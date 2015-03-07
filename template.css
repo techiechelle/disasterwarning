@@ -11,6 +11,7 @@ header{
 	height: 50px;
 	position: fixed;
 	z-index:2;
+	background-image:url("images/footer_lodyas/footer_lodyas.png");
 }
 div#DisasterWarning{
 	font-weight: 20;
@@ -20,6 +21,18 @@ div#DisasterWarning{
 	text-decoration:none;
 	font: 24px;
 	margin: 0 0 0 20px;
+}
+a{
+	text-decoration:none;
+}
+div#DisasterWarning a:visited{
+	color:#F1F1F1;
+}
+div#DisasterWarning a:hover{
+	color:#F1F1F1;                                                                                                                                                                                       
+}
+div#DisasterWarning a.active{
+	color:#93AFBF;
 }
 section#about{
 	font: 12px 'Ubuntu';
