@@ -98,3 +98,10 @@ nav a.active{
 #headerMenu {
 	display:inline;
 }
+
+div.table{
+	display: table;
+	table-layout:fixed;
+	width:100%;
+	text-align:center;
+}
