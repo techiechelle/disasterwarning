@@ -4,4 +4,45 @@ body{
 	color:#d7ebfe;
 	margin: 0 50px;
 	font-weight: 400;
+	background-image:url("footer_lodyas/footer_lodyas.png");
+}
+header{
+	width:100%;
+	line-height:150%;
+	position: fixed;
+	z-index:2;
+	font: 25 'Ubuntu';
+}
+div#DisasterWarning{
+	font-weight: 900;
+	color:#d7ebfe;
+	display:inline-block;
+	float:left;
+	padding: -1 10%;
+	text-decoration:none;
+}
+nav{
+	display: inline-block;
+	float: right;
+}
+nav ul{
+	padding: 0;
+	margin: 0;
+}
+nav li{
+	display:inline-block;
+	text-decoration:none;
+	padding:5px;
+}
+nav a:visited{
+	color:#F1F1F1;
+}
+nav a:hover{
+	color:#93AFBF;
+}
+nav a.active{
+	color:#93AFBF;
+}
+#headerMenu {
+	display:inline;
 }
