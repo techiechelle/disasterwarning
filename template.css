@@ -39,7 +39,7 @@ a{
 	text-decoration:none;
 }
 div#DisasterWarning a:visited{
-	color:#F1F1F1;
+	color:#b6b6b6;
 }
 div#DisasterWarning a:hover{
 	color:#F1F1F1;                                                                                                                                                                                       
@@ -48,7 +48,7 @@ div#DisasterWarning a.active{
 	color:#93AFBF;
 }
 section#about{
-	font: 12px 'Ubuntu';
+	font: 20px 'Ubuntu';
 	background-color:#F0F8FF;
 	padding-left: 10px;
 }
@@ -56,7 +56,7 @@ p{
 	text-indent:1.5em;
 }
 h1{
-	font: 24px 'Ubuntu';
+	font: 30px 'Ubuntu';
 	padding: 0;
 }
 section#Projects{
