@@ -1,9 +1,13 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:400,500,700);
 body{
 	font: 20px 'Ubuntu';
-	color:#d7ebfe;
+	color:#acacac;
+	text-shadow:1px 1px 1px #000;
+	/*d7ebfe*/
 	font-weight: 400;
-	background-image:url("images/footer_lodyas/footer_lodyas.png");
+	/*background-image:url("images/robots/robots_@2X.png");
+	*/
+	background-color: #F0F8FF;
 	margin: 0;
 }
 header{
@@ -11,22 +15,25 @@ header{
 	height: 50px;
 	position: fixed;
 	z-index:2;
-	background-image:url("images/footer_lodyas/footer_lodyas.png");
+	background-color: #F0F8FF;
+	/*background-image:url("images/robots/robots_@2X.png");
+	*/
 }
 footer{
 	width:100%;
-	background-color:#fff;
+	background-color:#F0F8FF;
 	padding: 15px;
-	color:#8cc6fc;
+	color:#acacac;
 }
 div#DisasterWarning{
 	font-weight: 20;
-	color:#d7ebfe;
+	color:#acacac;
 	display:inline-block;
 	float:left;
 	text-decoration:none;
 	font: 24px;
 	margin: 0 0 0 20px;
+	padding-top: 10px;
 }
 a{
 	text-decoration:none;
@@ -42,7 +49,7 @@ div#DisasterWarning a.active{
 }
 section#about{
 	font: 12px 'Ubuntu';
-	background-color:#fff;
+	background-color:#F0F8FF;
 	padding: 10px;
 }
 p{
@@ -52,8 +59,9 @@ h1{
 	font: 24px 'Ubuntu';
 	padding: 0;
 }
-section#portfolio{
+section#Projects{
 	padding:0 10px;
+	background-color: #fff;
 }
 div.three-items {
 	display:block;
@@ -77,14 +85,19 @@ div.an-item img{
 	padding-bottom: 10px;
 	margin: 0 50px;
 }
+div.an-item p{
+	width:20%;
+	padding:20px;
+	margin:0.5rem 1rem 0rem;
+}
 
 main{
 	padding-top:50px;
 }
 section#welcome {
 	width:100%;
-	height: 500px;
-	background-image:url("images/abstractc.jpg");
+	height: 400px;
+	background-image:url("images/technics-q.jpg");
 	background-size:100%;
 	background-position:center;
 }
@@ -119,6 +132,7 @@ nav a.active{
 }
 #headerMenu {
 	display:inline;
+	padding-top:10px;
 }
 
 div.table{
