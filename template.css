@@ -42,10 +42,10 @@ div#DisasterWarning a:visited{
 	color:#b6b6b6;
 }
 div#DisasterWarning a:hover{
-	color:#F1F1F1;                                                                                                                                                                                       
+	color:#b6b6b6;                                                                                                                                                                                       
 }
 div#DisasterWarning a.active{
-	color:#93AFBF;
+	color:#F0F8FF;
 }
 section#about{
 	font: 20px 'Ubuntu';
@@ -125,13 +125,13 @@ nav li{
 	margin: 0 15px;
 }
 nav a:visited{
-	color:#F1F1F1;
+	color:#b6b6b6;
 }
 nav a:hover{
-	color:#93AFBF;
+	color:#b6b6b6;
 }
 nav a.active{
-	color:#93AFBF;
+	color:#F0F8FF;
 }
 #headerMenu {
 	display:inline;
