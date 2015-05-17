@@ -50,7 +50,7 @@ div#DisasterWarning a.active{
 section#about{
 	font: 12px 'Ubuntu';
 	background-color:#F0F8FF;
-	padding: 10px;
+	padding-left: 10px;
 }
 p{
 	text-indent:1.5em;
@@ -62,6 +62,9 @@ h1{
 section#Projects{
 	padding:0 10px;
 	background-color: #fff;
+}
+section#Projects h1{
+	padding-top:10px;
 }
 div.three-items {
 	display:block;
