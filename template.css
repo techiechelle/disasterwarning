@@ -2,8 +2,8 @@
 body{
 	font: 20px 'Ubuntu';
 	color:#acacac;
-	text-shadow:1px 1px 1px #000;
-	/*d7ebfe*/
+	/*text-shadow:1px 1px 1px #000;
+	d7ebfe*/
 	font-weight: 400;
 	/*background-image:url("images/robots/robots_@2X.png");
 	*/
@@ -21,7 +21,7 @@ header{
 }
 footer{
 	width:100%;
-	background-color:#F0F8FF;
+	/*background-color:#fff;*/
 	padding: 15px;
 	color:#acacac;
 }
@@ -48,7 +48,7 @@ div#DisasterWarning a.active{
 	color:#F0F8FF;
 }
 section#about{
-	font: 20px 'Ubuntu';
+	font: 24px 'Ubuntu';
 	background-color:#F0F8FF;
 	padding-left: 10px;
 }
@@ -56,7 +56,7 @@ p{
 	text-indent:1.5em;
 }
 h1{
-	font: 30px 'Ubuntu';
+	font: 35px 'Ubuntu';
 	padding: 0;
 }
 section#Projects{
@@ -74,11 +74,15 @@ div.three-items {
 div.an-item {
 	display:inline-block;
 	width 33%;
-	margin:10px;
+	margin:50px;
 }
 
-div.item-text {
-	padding: 30px;
+div.text-item {
+	/*padding: 30px;*/
+	width:200px;
+}
+div.text-item h4{
+	padding-left: 40px;
 }
 div.an-item img{
 	border-radius:50%;
@@ -89,8 +93,8 @@ div.an-item img{
 	margin: 0 50px;
 }
 div.an-item p{
-	width:20%;
-	padding:20px;
+	width:100%;
+
 	margin:0.5rem 1rem 0rem;
 }
 
