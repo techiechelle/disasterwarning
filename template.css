@@ -36,14 +36,14 @@ body {
 }
 
 h1 {
-  color: #fff;
+  color: #fff !important;
   letter-spacing: .2px;
   margin: 0;
   padding-top: 20px;
 }
 
 span {
-  color: #fff;
+  color: #fff !important;
 }
 
 .handle {
