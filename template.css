@@ -66,29 +66,3 @@ p {
     fill: #888;
   }
 }
-footer{
-	width:100%;
-	/*background-color:#fff;*/
-	padding: 15px;
-	color:#acacac;
-}
-div#DisasterWarning{
-	font-weight: 20;
-	color:#acacac;
-	display:inline-block;
-	float:left;
-	text-decoration:none;
-	font: 24px;
-	margin: 0 0 0 20px;
-	padding-top: 10px;
-}
-
-div#DisasterWarning a:visited{
-	color:#b6b6b6;
-}
-div#DisasterWarning a:hover{
-	color:#b6b6b6;                                                                                                                                                                                       
-}
-div#DisasterWarning a.active{
-	color:#F0F8FF;
-}
