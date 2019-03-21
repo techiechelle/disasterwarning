@@ -19,10 +19,6 @@ html {
   user-select: none;
 }
 
-body {
-  background-color: #000;
-}
-
 *, *:before, *:after {
   box-sizing: inherit;
 }
@@ -33,17 +29,6 @@ body {
 
 .copy-container {
   text-align: center;
-}
-
-h1 {
-  color: #fff !important;
-  letter-spacing: .2px;
-  margin: 0;
-  padding-top: 20px;
-}
-
-span {
-  color: #fff !important;
 }
 
 .handle {
